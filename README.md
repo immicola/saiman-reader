@@ -4,7 +4,7 @@
 
 ## Система мониторинга электроэнергии
 
-Система для считывания данных со счётчиков электроэнергии, их обработки и визуализации. Проект состоит из трёх основных компонентов:
+Система для считывания данных со счётчиков электроэнергии линейки Орман СО-Э711 код CU, их обработки и визуализации. Проект состоит из трёх основных компонентов:
 
 ### Компоненты системы
 
@@ -94,7 +94,7 @@
 
 ## Energy Monitoring System
 
-A system for reading data from electricity meters, processing, and visualization. The project consists of three main components:
+A system for reading data from Saiman "Орман СО-Э711", code CU electricity meters, processing, and visualization. The project consists of three main components:
 
 ### System Components
 
